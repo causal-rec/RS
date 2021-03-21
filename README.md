@@ -5,4 +5,5 @@ RecBole is developed based on Python and PyTorch for reproducing and developing 
 + Context-aware Recommendation
 + Knowledge-based Recommendation
 
-the webpage is [RecBole](https://github.com/RUCAIBox/RecBole)
+The source project at [RecBole](https://github.com/RUCAIBox/RecBole)
+# 2.RecBole
