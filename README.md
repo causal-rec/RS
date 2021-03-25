@@ -15,8 +15,11 @@ The source project at [Unbiased-Implicit-Rec](https://github.com/usaito/unbiased
 ## 2. DICE
 This repository,based on Python and Pytorch, is implementation of our WWW'21 paper:
 Yu Zheng, Chen Gao, Xiang Li, Xiangnan He, Depeng Jin, Yong Li, Disentangling User Interest and Conformity for Recommendation with Causal Embedding, In Proceedings of the Web Conference 2021.
-
 The source project at [DICE](https://github.com/tsinghua-fib-lab/DICE)
+## 3. Asymmetric-tri-rec
+This repository,based on Python and Tensorflow,accompanies the real-world experiments conducted in the paper "Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback" by Yuta Saito, which has been accepted at SIGIR2020 as a full paper.
+
+The source project at [Asymmetric-tri-rec](https://github.com/usaito/asymmetric-tri-rec-real)
 # Sequential Recommendation
 
 
